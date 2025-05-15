@@ -1,4 +1,4 @@
-# Superstore Sales Dashboard
+# Power BI Superstore Sales Dashboard
 
 ## Project Summary
 This project explores sales and profit data from a fictional superstore, using visual analytics to uncover trends across product categories and regional performance.
